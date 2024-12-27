@@ -43,7 +43,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
     
-![03_sales_funnel](https://github.gatech.edu/storage/user/75133/files/3997b09a-df03-4214-a8e7-03b91520ed9d)
+![03_sales_funnel]<img width="1064" alt="image" src="https://github.com/user-attachments/assets/c9c8d4cc-d57e-4b78-9dfb-3708c1791d6b" />
+)
 
 </p>
 
