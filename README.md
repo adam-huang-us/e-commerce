@@ -31,7 +31,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
 
-![07_sales_trend](https://github.gatech.edu/storage/user/75133/files/b862d956-50df-4359-a9f1-6b646e855d36)
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/e2fed992-7bbb-454c-941c-a74bcd80a2a0" />
+
 
 </p>
 
@@ -43,7 +44,7 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
     
-![03_sales_funnel]<img width="1064" alt="image" src="https://github.com/user-attachments/assets/c9c8d4cc-d57e-4b78-9dfb-3708c1791d6b" />
+<img width="1064" alt="image" src="https://github.com/user-attachments/assets/c9c8d4cc-d57e-4b78-9dfb-3708c1791d6b" />
 )
 
 </p>
@@ -59,7 +60,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
 
-![04_cor_between_traffic_and_order](https://github.gatech.edu/storage/user/75133/files/7f456711-1b95-4497-a37c-85d355247332)
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/9d365a8e-880d-4718-a995-47301674a751" />
+
 
 </p>
 
@@ -71,7 +73,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
     
-![06_orders_and_page-view_trend](https://github.gatech.edu/storage/user/75133/files/7d868bb8-9540-4863-9cc7-e364c90e2a17)
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/0a15e4da-49a8-4139-a0df-8723024f1089" />
+
 
 </p>
 
@@ -95,7 +98,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
     
-![09_churn_rate](https://github.gatech.edu/storage/user/75133/files/b154248e-3a99-437f-bfda-7e6845d6a8fb)
+<img width="743" alt="image" src="https://github.com/user-attachments/assets/a6d091f4-951b-4baf-b952-dd2f1fa6118f" />
+
 
 </p>
 
@@ -105,7 +109,8 @@ The objective of this E-commerce project is to test your SQL skills as well as d
 
 <p align="center">
     
-![10_retention_rate](https://github.gatech.edu/storage/user/75133/files/1cc0aaf4-00aa-49cc-a241-5ac17dbd9f46)
+<img width="1032" alt="image" src="https://github.com/user-attachments/assets/eb4addf6-9e7e-4d7c-95dd-6411566dc216" />
+
 
 </p>
 
@@ -121,7 +126,8 @@ Summary of the clusters and marketing strategy based on RFM analysis
 
 <p align="center">
     
-![image](https://github.com/Sol2023/e-commerce/assets/92194263/ee2e5d45-9dcf-41e8-bb25-4a519af130e6)
+<img width="751" alt="image" src="https://github.com/user-attachments/assets/13d3b135-370a-4779-a84d-77aeb1128ea8" />
+
 
 </p>
 
